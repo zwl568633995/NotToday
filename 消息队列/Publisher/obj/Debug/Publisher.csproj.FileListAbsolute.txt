@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\消息队列\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\Administrator\Desktop\消息队列\Publisher\bin\Debug\Publisher.exe
+C:\Users\Administrator\Desktop\消息队列\Publisher\bin\Debug\Publisher.pdb
+C:\Users\Administrator\Desktop\消息队列\Publisher\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\消息队列\Publisher\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Desktop\消息队列\Publisher\obj\Debug\Publisher.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\消息队列\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\消息队列\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\消息队列\Publisher\obj\Debug\Publisher.exe
+C:\Users\Administrator\Desktop\消息队列\Publisher\obj\Debug\Publisher.pdb

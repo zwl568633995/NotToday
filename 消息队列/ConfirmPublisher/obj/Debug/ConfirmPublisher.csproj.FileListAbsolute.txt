@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\消息队列\ConfirmPublisher\bin\Debug\ConfirmPublisher.exe.config
+C:\Users\Administrator\Desktop\消息队列\ConfirmPublisher\bin\Debug\ConfirmPublisher.exe
+C:\Users\Administrator\Desktop\消息队列\ConfirmPublisher\bin\Debug\ConfirmPublisher.pdb
+C:\Users\Administrator\Desktop\消息队列\ConfirmPublisher\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\消息队列\ConfirmPublisher\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Desktop\消息队列\ConfirmPublisher\obj\Debug\ConfirmPublisher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\消息队列\ConfirmPublisher\obj\Debug\ConfirmPublisher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\消息队列\ConfirmPublisher\obj\Debug\ConfirmPublisher.exe
+C:\Users\Administrator\Desktop\消息队列\ConfirmPublisher\obj\Debug\ConfirmPublisher.pdb

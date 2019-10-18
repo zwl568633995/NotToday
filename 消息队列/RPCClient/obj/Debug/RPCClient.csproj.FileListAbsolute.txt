@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\消息队列\RPCClient\bin\Debug\RPCClient.exe.config
+C:\Users\Administrator\Desktop\消息队列\RPCClient\bin\Debug\RPCClient.exe
+C:\Users\Administrator\Desktop\消息队列\RPCClient\bin\Debug\RPCClient.pdb
+C:\Users\Administrator\Desktop\消息队列\RPCClient\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\消息队列\RPCClient\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Desktop\消息队列\RPCClient\obj\Debug\RPCClient.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\消息队列\RPCClient\obj\Debug\RPCClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\消息队列\RPCClient\obj\Debug\RPCClient.csproj.CopyComplete
+C:\Users\Administrator\Desktop\消息队列\RPCClient\obj\Debug\RPCClient.exe
+C:\Users\Administrator\Desktop\消息队列\RPCClient\obj\Debug\RPCClient.pdb

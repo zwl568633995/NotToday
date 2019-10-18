@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\bin\Debug\ScheduleConsumer.exe.config
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\bin\Debug\ScheduleConsumer.exe
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\bin\Debug\ScheduleConsumer.pdb
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\obj\Debug\ScheduleConsumer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\obj\Debug\ScheduleConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\obj\Debug\ScheduleConsumer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\obj\Debug\ScheduleConsumer.exe
+C:\Users\Administrator\Desktop\消息队列\ScheduleConsumer\obj\Debug\ScheduleConsumer.pdb

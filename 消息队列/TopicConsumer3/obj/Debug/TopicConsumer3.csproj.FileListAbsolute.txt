@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\TopicConsumer3\bin\Debug\TopicConsumer3.exe.config
+C:\Users\Administrator\Desktop\TopicConsumer3\bin\Debug\TopicConsumer3.exe
+C:\Users\Administrator\Desktop\TopicConsumer3\bin\Debug\TopicConsumer3.pdb
+C:\Users\Administrator\Desktop\TopicConsumer3\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\TopicConsumer3\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Desktop\TopicConsumer3\obj\Debug\TopicConsumer3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TopicConsumer3\obj\Debug\TopicConsumer3.csproj.CopyComplete
+C:\Users\Administrator\Desktop\TopicConsumer3\obj\Debug\TopicConsumer3.exe
+C:\Users\Administrator\Desktop\TopicConsumer3\obj\Debug\TopicConsumer3.pdb

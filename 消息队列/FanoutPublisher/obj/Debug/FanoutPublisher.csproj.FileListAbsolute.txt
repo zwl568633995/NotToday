@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\FanoutPublisher\bin\Debug\FanoutPublisher.exe.config
+C:\Users\Administrator\Desktop\FanoutPublisher\bin\Debug\FanoutPublisher.exe
+C:\Users\Administrator\Desktop\FanoutPublisher\bin\Debug\FanoutPublisher.pdb
+C:\Users\Administrator\Desktop\FanoutPublisher\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\FanoutPublisher\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Desktop\FanoutPublisher\obj\Debug\FanoutPublisher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FanoutPublisher\obj\Debug\FanoutPublisher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FanoutPublisher\obj\Debug\FanoutPublisher.exe
+C:\Users\Administrator\Desktop\FanoutPublisher\obj\Debug\FanoutPublisher.pdb

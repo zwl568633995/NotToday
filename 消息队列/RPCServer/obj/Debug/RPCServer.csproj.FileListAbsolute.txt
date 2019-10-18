@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\消息队列\RPCServer\bin\Debug\RPCServer.exe.config
+C:\Users\Administrator\Desktop\消息队列\RPCServer\bin\Debug\RPCServer.exe
+C:\Users\Administrator\Desktop\消息队列\RPCServer\bin\Debug\RPCServer.pdb
+C:\Users\Administrator\Desktop\消息队列\RPCServer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\消息队列\RPCServer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Desktop\消息队列\RPCServer\obj\Debug\RPCServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\消息队列\RPCServer\obj\Debug\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\消息队列\RPCServer\obj\Debug\RPCServer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\消息队列\RPCServer\obj\Debug\RPCServer.exe
+C:\Users\Administrator\Desktop\消息队列\RPCServer\obj\Debug\RPCServer.pdb

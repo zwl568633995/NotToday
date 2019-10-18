@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\FanoutConsumer2\bin\Debug\FanoutConsumer2.exe.config
+C:\Users\Administrator\Desktop\FanoutConsumer2\bin\Debug\FanoutConsumer2.exe
+C:\Users\Administrator\Desktop\FanoutConsumer2\bin\Debug\FanoutConsumer2.pdb
+C:\Users\Administrator\Desktop\FanoutConsumer2\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\FanoutConsumer2\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Desktop\FanoutConsumer2\obj\Debug\FanoutConsumer2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FanoutConsumer2\obj\Debug\FanoutConsumer2.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FanoutConsumer2\obj\Debug\FanoutConsumer2.exe
+C:\Users\Administrator\Desktop\FanoutConsumer2\obj\Debug\FanoutConsumer2.pdb

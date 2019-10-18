@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\消息队列\TransactionPublisher\bin\Debug\TransactionPublisher.exe.config
+C:\Users\Administrator\Desktop\消息队列\TransactionPublisher\bin\Debug\TransactionPublisher.exe
+C:\Users\Administrator\Desktop\消息队列\TransactionPublisher\bin\Debug\TransactionPublisher.pdb
+C:\Users\Administrator\Desktop\消息队列\TransactionPublisher\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\消息队列\TransactionPublisher\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Desktop\消息队列\TransactionPublisher\obj\Debug\TransactionPublisher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\消息队列\TransactionPublisher\obj\Debug\TransactionPublisher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\消息队列\TransactionPublisher\obj\Debug\TransactionPublisher.exe
+C:\Users\Administrator\Desktop\消息队列\TransactionPublisher\obj\Debug\TransactionPublisher.pdb
